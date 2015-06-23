@@ -1,6 +1,6 @@
 package boutiquetrapitos;
 /**
- * 
+ * hola.
  * @author daniel serna
  */
 public class ClasePersonal {
