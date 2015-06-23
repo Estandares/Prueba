@@ -55,11 +55,17 @@ public class ClasePersonal {
         this.Celular = Celular;
         this.Correo = Correo;
     }
-    
+    /**
+     * Son los metodos Get.
+     * @return Documento.
+     */
     public String getDocumento(){
         return Documento;
     }
-    
+    /**
+     *  los constructores
+     * @param Documento 
+     */
     public void setDocumento(String Documento){
         this.Documento = Documento;
     }
