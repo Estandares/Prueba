@@ -21,7 +21,7 @@ public class ClasePersonal {
     private String Correo;
 
     /**
-     * Constructor---
+     * Constructor.
      * @param Documento
      * @param TipoDoc
      * @param Nombre

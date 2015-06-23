@@ -1,6 +1,9 @@
 
 package boutiquetrapitos;
-
+/**
+ * clases privadas.
+ * @author daniel serna
+ */
 public class ClaseProveedores {
     private String Nit;
     private String Nombre;
