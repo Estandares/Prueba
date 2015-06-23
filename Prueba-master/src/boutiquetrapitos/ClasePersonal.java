@@ -20,7 +20,7 @@ public class ClasePersonal {
     private String Correo;
   
     /**
-     * 
+     * d
      * @param Documento
      * @param TipoDoc
      * @param Nombre
