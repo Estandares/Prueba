@@ -21,9 +21,24 @@ public class ClasePersonal {
     private String Telefono;
     private String Celular;
     private String Correo;
+
     /**
-     * Hola
-     */ 
+     * 
+     * @param Documento
+     * @param TipoDoc
+     * @param Nombre
+     * @param Fecha
+     * @param Ciudad
+     * @param TipoSangre
+     * @param RH
+     * @param FechaContrato
+     * @param TipoContrato
+     * @param Cargo
+     * @param Direccion
+     * @param Telefono
+     * @param Celular
+     * @param Correo 
+     */
     
     public ClasePersonal(String Documento, int TipoDoc, String Nombre, String Fecha, String Ciudad, int TipoSangre, int RH, String FechaContrato, String TipoContrato, String Cargo, String Direccion, String Telefono, String Celular, String Correo){
         
