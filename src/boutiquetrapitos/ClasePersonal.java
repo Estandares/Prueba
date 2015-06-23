@@ -3,7 +3,7 @@ package boutiquetrapitos;
 *Clase Persona de los metodos privados...
 * @author Daniel Serna
 * @version 23-06-2015
-* hola..
+* @param carro.
 */
 public class ClasePersonal {
     private String Documento;
