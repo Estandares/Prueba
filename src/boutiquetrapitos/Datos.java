@@ -14,7 +14,7 @@ public class Datos {
     * @return true = Verdadero e ingresa al aplicativo.
     */
     public boolean validarIngreso(String usuario, String contraseña){
-        if(usuario.equals("sa") && contraseña.equals("123")){
+        if(usuario.equals("we") && contraseña.equals("123")){
             return true;
         }
         else{
