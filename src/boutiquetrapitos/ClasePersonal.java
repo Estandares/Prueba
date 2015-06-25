@@ -1,9 +1,5 @@
 package boutiquetrapitos;
-/**
-*Clase Persona de los metodos privados...
-* @author Daniel Serna
-* @version 23-06-2014
-*/
+
 public class ClasePersonal {
     private String Documento;
     private int TipoDoc;
@@ -20,23 +16,6 @@ public class ClasePersonal {
     private String Celular;
     private String Correo;
 
-    /**
-     * Constructor.
-     * @param Documento
-     * @param TipoDoc
-     * @param Nombre
-     * @param Fecha
-     * @param Ciudad
-     * @param TipoSangre
-     * @param RH
-     * @param FechaContrato
-     * @param TipoContrato
-     * @param Cargo
-     * @param Direccion
-     * @param Telefono
-     * @param Celular
-     * @param Correo 
-     */
     
     public ClasePersonal(String Documento, int TipoDoc, String Nombre, String Fecha, String Ciudad, int TipoSangre, int RH, String FechaContrato, String TipoContrato, String Cargo, String Direccion, String Telefono, String Celular, String Correo){
         
@@ -64,7 +43,7 @@ public class ClasePersonal {
     }
     /**
      *  los constructores
-     * @param Documento 
+     * @param Documento Tipo String
      */
     public void setDocumento(String Documento){
         this.Documento = Documento;
@@ -170,5 +149,4 @@ public class ClasePersonal {
     public void setCorreo(String Correo){
         this.Correo = Correo;
     }
- 
 }

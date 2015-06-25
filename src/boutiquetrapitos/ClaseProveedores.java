@@ -1,9 +1,5 @@
-
 package boutiquetrapitos;
-/**
- * clases privadas.
- * @author daniel serna
- */
+
 public class ClaseProveedores {
     private String Nit;
     private String Nombre;
@@ -119,10 +115,5 @@ public class ClaseProveedores {
     
     public void setCorreoContacto(String CorreoContacto){
         this.CorreoContacto = CorreoContacto;
-    }
- 
-       
-        
-        
-        
+    }   
 }
