@@ -12,7 +12,7 @@ package boutiquetrapitos;
 
 public class Datos {
    /**
-    * Metodo Booleano para validar usuario
+    * Metodo Booleano para validar usuario.
     * @param usuario tipo string que recibe el usuario.
     * @param contraseña tipo string que recibe la contraseña.
     * @return true = Verdadero e ingresa al aplicativo o false y no ingresa.

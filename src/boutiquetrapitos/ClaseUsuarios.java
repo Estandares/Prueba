@@ -6,7 +6,7 @@
 package boutiquetrapitos;
 /**
  * Clase usuarios con las variables privadas.
- * @author Daniel Serna
+ * @author Daniel Serna.
  */
 public class ClaseUsuarios {
     private String NumCedula;
@@ -18,8 +18,8 @@ public class ClaseUsuarios {
     private int Perfil;
     
     /**
-     * La clase usuario donde se asignan las variables del formulario Usuario.
-     * @param NumCedula Tipo string que recibe el numreo de cedula.
+     * La clase usuarios donde se asignan las variables del formulario Usuarios.
+     * @param NumCedula Tipo string que recibe el número de cedula.
      * @param NomUsuario Tipo string que recibe el nombre.
      * @param Correo Tipo string que recibe el correo.
      * @param PreguntaSecreta Tipo string que recibe la pregunta secreta. 
