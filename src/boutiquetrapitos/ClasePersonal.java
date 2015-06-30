@@ -24,7 +24,7 @@ public class ClasePersonal {
     private String Celular;
     private String Correo;
 
-    /**
+    /*
      * La clase personal donde se asignan las variables del formulario personal.
      * @param Documento Tipo string que recibe el documento del personal.
      * @param TipoDoc Tipo int que recibe el tipo de documento del personal.
