@@ -30,7 +30,7 @@ public class ClasePersonal {
      * @param Cargo
      * @param Direccion
      * @param Telefono
-     * @param Celular
+     * @param Celular 2
      * @param Correo 
      */
     
